@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- Premium Light Header -->
@@ -33,7 +32,7 @@
 
 ---
 
-## 👨‍💻 Hi, I'm Dinesh
+## 👨💻 Hi, I'm Dinesh
 
 <table width="100%" border="0">
 <tr>
@@ -398,4 +397,3 @@ A Final Year Project Management Platform designed for engineering colleges with 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:F8FAFC&height=120&section=footer" alt="Footer"/>
 
 </div>
-```
