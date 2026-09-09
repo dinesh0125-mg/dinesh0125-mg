@@ -224,26 +224,34 @@ React 18 Django DRF MySQL JWT Cloudinary
 
 GitHub Statistics
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=dinesh0125-mg&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9C9C9C&stroke=0D1117" alt="GitHub Streak"/>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dinesh0125-mg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh0125-mg&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&langs_count=8" width="330" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinesh0125-mg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&ring_color=DC143C" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh0125-mg&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF" alt="Top Languages"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=dinesh0125-mg&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9C9C9C&stroke=0D1117" width="760" alt="GitHub Streak"/>
+</p>
 
 <div align="center">
 
 Activity Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh0125-mg&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C&hide_border=true" alt="GitHub Activity Graph"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh0125-mg&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C&hide_border=true" width="820" alt="GitHub Activity Graph"/>
+</p>
 
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/dinesh0125-mg/dinesh0125-mg/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/dinesh0125-mg/dinesh0125-mg/output/github-contribution-grid-snake-dark.svg" width="820" alt="Contribution Snake"/>
+</p>
 
 <table width="100%">
 <tr>
@@ -277,31 +285,55 @@ Full Stack Development
 
 Connect With Me
 
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://dinesh25.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=DC143C" alt="Portfolio"/>
+<img src="https://cdn.simpleicons.org/vercel/DC143C" width="38" alt="Portfolio"/>
+<br/>
+<b>Portfolio</b>
 </a>
-
+</td>
+<td width="22"></td>
+<td align="center">
 <a href="https://github.com/dinesh0125-mg">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=DC143C" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
+<br/>
+<b>GitHub</b>
 </a>
-
+</td>
+<td width="22"></td>
+<td align="center">
 <a href="https://linkedin.com/in/dinesh-m-0125g1980">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=DC143C" alt="LinkedIn"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
+<br/>
+<b>LinkedIn</b>
 </a>
-
+</td>
+<td width="22"></td>
+<td align="center">
 <a href="https://instagram.com/its_me_dinesh025">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=DC143C" alt="Instagram"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram"/>
+<br/>
+<b>Instagram</b>
 </a>
-
+</td>
+<td width="22"></td>
+<td align="center">
 <a href="mailto:dineshdinesh48376@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=DC143C" alt="Email"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email"/>
+<br/>
+<b>Email</b>
 </a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dinesh0125-mg&style=flat-square&color=DC143C&label=PROFILE%20VIEWS" alt="Profile Views"/>
-
-</div>
+<p align="center">
+<a href="https://dinesh25.vercel.app">
+<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-DC143C?style=for-the-badge&labelColor=0D1117" alt="Visit Portfolio"/>
+</a>
+</p>
 
 <br/>
 
