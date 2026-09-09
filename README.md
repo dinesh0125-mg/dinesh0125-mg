@@ -1,25 +1,134 @@
-<h1 align="center">Hi 👋, I'm Dinesh</h1>
-<h3 align="center">A passionate Computer Science And Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh0125-mg&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh0125-mg" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh0125-mg" alt="dinesh0125-mg" /></a> </p>
+<h1>Hi, I'm Dinesh 👋</h1>
+<h3>Full Stack Developer | MERN Stack Developer | Computer Science & Engineering Student</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;Building+Scalable+Web+Applications;Learning+and+Building+Every+Day" alt="Typing SVG" />
 
-- 💬 Ask me about **Reactjs**
+</div>
 
-- 📫 How to reach me **dineshdinesh48376@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dinesh-m-0125g1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh m" height="30" width="40" /></a>
-<a href="https://instagram.com/its_me_dinesh025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_dinesh025" height="30" width="40" /></a>
+## About Me
+
+I'm a final-year Computer Science Engineering student and Full Stack Developer, with hands-on experience building scalable, user-focused web applications using React, Node.js, Spring Boot, and Django. I enjoy working across the stack, and I'm currently deepening my expertise in the MERN stack.
+
+**Currently focused on:**
+
+- Full Stack Development
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- React.js
+- Backend Development
+- Building real-world web applications
+
+<br />
+
+<div align="center">
+
+### Explore My Portfolio
+
+<a href="https://dinesh25.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/dinesh25.vercel.app-DC143C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+<br />
+
+## Tech Stack
+
+**Frontend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="40" height="40" />&nbsp;
+
+**Backend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="40" height="40" />&nbsp;
+
+**Database**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />&nbsp;
+
+**Tools & Technologies**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Razorpay-000000?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Cloudinary-000000?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" height="28" />&nbsp;
+
+<br />
+
+## Featured Projects
+
+### Smart Agriculture Marketplace
+
+> A full-stack marketplace platform connecting farmers directly with buyers, built as a final-year capstone project. Features JWT-based authentication, an integrated payment gateway, and cloud-based media management, backed by a custom REST API layer.
+>
+> **Tech Stack:** `React 18` `Vite` `Java 17` `Spring Boot 3` `MySQL` `JWT` `Razorpay` `Cloudinary`
+
+<p align="center"><sub>More projects available on my <a href="https://dinesh25.vercel.app">portfolio</a>.</sub></p>
+
+<br />
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dinesh0125-mg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C&ring_color=DC143C" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh0125-mg&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dinesh0125-mg&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9C9C9C&stroke=0D1117" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh0125-mg&show_icons=true&locale=en&layout=compact" alt="dinesh0125-mg" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh0125-mg&show_icons=true&locale=en" alt="dinesh0125-mg" /></p>
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh0125-mg&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=DC143C&hide_border=true" alt="Contribution Graph" width="95%" />
+</p>
+
+<br />
+
+## Connect With Me
+
+<div align="center">
+
+Let's connect and build something great together 🤝
+
+<a href="https://linkedin.com/in/dinesh-m-0125g1980" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/its_me_dinesh025" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:dineshdinesh48376@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://dinesh25.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+<sub>Thanks for stopping by — always open to new ideas and collaborations ⚡</sub>
+<br />
+<img src="https://komarev.com/ghpvc/?username=dinesh0125-mg&style=flat&color=DC143C&label=Profile+Views" alt="Profile Views" />
+
+</div>
